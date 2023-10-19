@@ -1,5 +1,5 @@
 # Tomcat 베이스 이미지를 사용합니다
-FROM my-tomcat-java8:latest
+FROM my-tomcat-java11:latest
 
 # WAR 파일을 도커 이미지에 추가합니다
 COPY ./target/testweb-1.0.0.war /usr/local/tomcat/webapps/ROOT.war
