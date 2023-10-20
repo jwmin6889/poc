@@ -64,7 +64,7 @@
         	<!-- 타이틀 -->
         	<div id="title">
         		<ul>
-        			<li><img src="<c:url value='/images/egovframework/example/title_dot.gif'/>" alt=""/><spring:message code="list.sample" /></li>
+        			<li><img src="<c:url value='/images/egovframework/example/title_dot.gif'/>" alt=""/>변경한 테이블입니다. </li>
         		</ul>
         	</div>
         	<!-- // 타이틀 -->
